@@ -28,3 +28,5 @@
 	
 	4. If you want to clear field click "Clear" button
 	
+	5. You can randomize your field by clicking "Random" button
+	
